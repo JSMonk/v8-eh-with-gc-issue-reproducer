@@ -1,4 +1,4 @@
-.PHONY: install-tools compile run
+.PHONY: check-tools compile run
 
 all: check-tools compile run
 
